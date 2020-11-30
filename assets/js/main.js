@@ -1,6 +1,6 @@
-$(".header-right > a").click(function() {
+$(".header-right > a i.fas").click(function() {
   $(".hamburger-menu").show();
-    });
+});
 $(".close").click(function() {
-    $(".hamburger-menu").hide();
-    });
+  $(".hamburger-menu").hide();
+});
